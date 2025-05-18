@@ -1,5 +1,3 @@
-![](https://i.ibb.co/5WPHnc7s/League-Of-Legends-Auto-Accept-By-Zyl0nz.jpg)
-
 A lightweight Python app that auto-accepts match queues in League of Legends using image recognition.
 
 ### Features
@@ -8,6 +6,7 @@ A lightweight Python app that auto-accepts match queues in League of Legends usi
 - Custom animated UI with CTk and PIL
 - Fully standalone executable
 
+![](https://i.ibb.co/5WPHnc7s/League-Of-Legends-Auto-Accept-By-Zyl0nz.jpg)
 ### How to use?
 1. Run the "Ruin first.bat" file
 2. Run the app
