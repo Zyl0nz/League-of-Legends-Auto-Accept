@@ -1,13 +1,13 @@
 *.html linguist-detectable=false
+*.bat linguist-detectable=false
 *.css linguist-detectable=false
 *.exe linguist-detectable=false
 *.zip linguist-detectable=false
-*.bat linguist-detectable=false
-
-*.py linguist-detectable=true
-
+*.png linguist-detectable=false
+*.gif linguist-detectable=false
+*.ttf linguist-detectable=false
+*.ico linguist-detectable=false
+*.spec linguist-detectable=false
+*.py linguist-language=Python
 README.md linguist-documentation
 *.md linguist-documentation
-
-*.bat linguist-generated
-*.zip linguist-generated
