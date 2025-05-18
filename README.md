@@ -16,3 +16,4 @@ A lightweight Python app that auto-accepts match queues in League of Legends usi
 ---
 
 Made with ❤️ by [Zyl0nz](https://github.com/Zyl0nz)
+" " 
