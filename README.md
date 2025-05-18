@@ -1,4 +1,4 @@
-## [Download the latest release](https://github.com/Zyl0nz/League-of-Legends-Auto-Accept/releases/download/1.0.0/LeageOfLegendsAutoAcceptByZyl0nz1.0.0.zip)
+## [📗 Download the latest release](https://github.com/Zyl0nz/League-of-Legends-Auto-Accept/releases/download/1.0.0/LeageOfLegendsAutoAcceptByZyl0nz1.0.0.zip)
 
 A lightweight Python app that auto-accepts match queuesin League of Legends using image recognition.
 
