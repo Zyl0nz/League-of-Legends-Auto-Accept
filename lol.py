@@ -6,7 +6,7 @@ import sys
 import threading
 import webbrowser
 import customtkinter as ctk
-from PIL import Image, ImageTk
+from PIL import Image
 from itertools import count
 from customtkinter import CTkImage
 
@@ -68,6 +68,7 @@ class AutoAcceptApp(ctk.CTk):
             pass
 
         self.current_frame = 0
+        # Set label text explicitly to empty string to avoid default text showing
         self.gif_label = ctk.CTkLabel(self, text="", image=self.gif_frames[0])
         self.gif_label.pack(pady=(10, 0))
         self.animate_gif()
@@ -114,7 +115,8 @@ class AutoAcceptApp(ctk.CTk):
     def animate_gif(self):
         frame = self.gif_frames[self.current_frame]
         delay = self.gif_durations[self.current_frame]
-        self.gif_label.configure(image=frame)
+        # Explicitly clear text every frame update
+        self.gif_label.configure(image=frame, text="")
         self.current_frame = (self.current_frame + 1) % len(self.gif_frames)
         self.after(delay, self.animate_gif)
 
