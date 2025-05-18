@@ -1,4 +1,5 @@
 ![](https://i.ibb.co/5WPHnc7s/League-Of-Legends-Auto-Accept-By-Zyl0nz.jpg)
+
 A lightweight Python app that auto-accepts match queues in League of Legends using image recognition.
 
 ### Features
