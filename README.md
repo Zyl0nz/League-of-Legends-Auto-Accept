@@ -13,5 +13,5 @@ A lightweight Python app that auto-accepts match queues in League of Legends usi
 3. Press **Start**
 4. Start gooning because no one can stop you now
 
-#[Download the latest release]([https://github.com/Zyl0nz](https://github.com/Zyl0nz/League-of-Legends-Auto-Accept/releases/download/1.0.0/LeageOfLegendsAutoAcceptByZyl0nz1.0.0.zip))
+# [Download the latest release]([https://github.com/Zyl0nz](https://github.com/Zyl0nz/League-of-Legends-Auto-Accept/releases/download/1.0.0/LeageOfLegendsAutoAcceptByZyl0nz1.0.0.zip)
 Made with ❤️ by [Zyl0nz](https://github.com/Zyl0nz)
